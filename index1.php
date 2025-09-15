@@ -58,7 +58,7 @@
   "headline": "PG Slots เกมสล็อตออนไลน์อันดับ 1 จากผู้ให้บริการทั้งหมด ด้วยเงินจริงและถอนง่าย 2025",
   "description": "สัมผัสประสบการณ์ความสนุกและความตื่นเต้นกับ PG Slots เกมสล็อตออนไลน์ที่ดีที่สุดในปี 2025 เล่นง่าย แตกจริง รองรับการเดิมพันด้วยเงินจริง และถอนเงินได้อย่างรวดเร็ว ปลอดภัย มั่นใจได้ทุกการเล่น พร้อมรวมทุกค่ายเกมชั้นนำให้คุณเลือกสรรในที่เดียว",
   "keywords": ["สล็อตออนไลน์, สล็อตไทย, ลิงค์ทางการ, PG SLOT, slot777, สล็อต อย่างเป็นทางการ, PG SLOT WALLET ใหม่ล่าสุด, สล็อตที่เชื่อถือได้, สล็อตอย่างเป็นทางการ, PG SLOT 2025, เว็บหวยออนไลน์, เว็บที่เชื่อถือได้"],
-  "image": "https://i.ibb.co.com/TBck9B8v/beefdc5c-978a-46ca-8c4c-ba51ef06944a.png",
+  "image": "https://res.cloudinary.com/dfluidhzg/image/upload/v1757936662/beefdc5c-978a-46ca-8c4c-ba51ef06944a_o3mbmp.png",
   "url": "http://lms6.digivarsity.com/",
   "publisher": {
     "@type": "Organization",
@@ -5110,18 +5110,18 @@
 <!-- Open Graph -->
 <meta content="PG Slots เกมสล็อตออนไลน์อันดับ 1 จากผู้ให้บริการทั้งหมด ด้วยเงินจริงและถอนง่าย 2025" property="og:title"/>
 <meta content="สัมผัสประสบการณ์ความสนุกและความตื่นเต้นกับ PG Slots เกมสล็อตออนไลน์ที่ดีที่สุดในปี 2025 เล่นง่าย แตกจริง รองรับการเดิมพันด้วยเงินจริง และถอนเงินได้อย่างรวดเร็ว ปลอดภัย มั่นใจได้ทุกการเล่น พร้อมรวมทุกค่ายเกมชั้นนำให้คุณเลือกสรรในที่เดียว" property="og:description"/>
-<meta content="https://i.ibb.co.com/TBck9B8v/beefdc5c-978a-46ca-8c4c-ba51ef06944a.png" property="og:image"/>
+<meta content="https://res.cloudinary.com/dfluidhzg/image/upload/v1757936662/beefdc5c-978a-46ca-8c4c-ba51ef06944a_o3mbmp.png" property="og:image"/>
 <meta content="http://lms6.digivarsity.com/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="PG Slots เกมสล็อตออนไลน์อันดับ 1 จากผู้ให้บริการทั้งหมด ด้วยเงินจริงและถอนง่าย 2025" name="twitter:title"/>
 <meta content="สัมผัสประสบการณ์ความสนุกและความตื่นเต้นกับ PG Slots เกมสล็อตออนไลน์ที่ดีที่สุดในปี 2025 เล่นง่าย แตกจริง รองรับการเดิมพันด้วยเงินจริง และถอนเงินได้อย่างรวดเร็ว ปลอดภัย มั่นใจได้ทุกการเล่น พร้อมรวมทุกค่ายเกมชั้นนำให้คุณเลือกสรรในที่เดียว" name="twitter:description"/>
-<meta content="https://i.ibb.co.com/TBck9B8v/beefdc5c-978a-46ca-8c4c-ba51ef06944a.png" name="twitter:image"/>
+<meta content="https://res.cloudinary.com/dfluidhzg/image/upload/v1757936662/beefdc5c-978a-46ca-8c4c-ba51ef06944a_o3mbmp.png" name="twitter:image"/>
 <meta content="PG Slots เกมสล็อตออนไลน์อันดับ 1 จากผู้ให้บริการทั้งหมด ด้วยเงินจริงและถอนง่าย 2025" property="og:title"/>
 <meta content="website" property="og:type"/>
 <meta content="http://lms6.digivarsity.com/" property="og:url"/>
-<meta content="https://i.ibb.co.com/TBck9B8v/beefdc5c-978a-46ca-8c4c-ba51ef06944a.png" property="og:image"/>
+<meta content="https://res.cloudinary.com/dfluidhzg/image/upload/v1757936662/beefdc5c-978a-46ca-8c4c-ba51ef06944a_o3mbmp.png" property="og:image"/>
 <meta content="สัมผัสประสบการณ์ความสนุกและความตื่นเต้นกับ PG Slots เกมสล็อตออนไลน์ที่ดีที่สุดในปี 2025 เล่นง่าย แตกจริง รองรับการเดิมพันด้วยเงินจริง และถอนเงินได้อย่างรวดเร็ว ปลอดภัย มั่นใจได้ทุกการเล่น พร้อมรวมทุกค่ายเกมชั้นนำให้คุณเลือกสรรในที่เดียว" property="og:description"/>
 <meta content="ThemeForest" property="og:site_name">
 <meta content="authenticity_token" name="csrf-param"/>
@@ -6099,7 +6099,7 @@
 </div>
 <div bis_skin_checked="1" class="header-mini__logo">
 <a href="http://lms6.digivarsity.com/">
-<img alt="Logo Baru" src="https://i.ibb.co.com/LzftjJY2/mcd999.gif" style="height:40px; width:auto; display:inline-block;"/>
+<img alt="Logo Baru" src="https://res.cloudinary.com/dfluidhzg/image/upload/v1757936663/download_bvw7ee.jpg" style="height:40px; width:auto; display:inline-block;"/>
 </a>
 </div>
 </div>
@@ -6108,7 +6108,7 @@
 <div bis_skin_checked="1" class="grid-container -layout-wide">
 <div bis_skin_checked="1" class="global-header__wrapper">
 <a href="http://lms6.digivarsity.com/">
-<img alt="Envato Market" class="global-header__logo" height="50" src="https://i.ibb.co.com/LzftjJY2/mcd999.gif"/>
+<img alt="Envato Market" class="global-header__logo" height="50" src="https://res.cloudinary.com/dfluidhzg/image/upload/v1757936663/download_bvw7ee.jpg"/>
 </a>
 <nav class="global-header-menu" role="navigation">
 <ul class="global-header-menu__list">
@@ -6477,7 +6477,7 @@
                                 //]]>
                             </script>
 <div bis_skin_checked="1">
-<link href="https://i.ibb.co.com/TBck9B8v/beefdc5c-978a-46ca-8c4c-ba51ef06944a.png"/>
+<link href="https://res.cloudinary.com/dfluidhzg/image/upload/v1757936662/beefdc5c-978a-46ca-8c4c-ba51ef06944a_o3mbmp.png"/>
 <div bis_skin_checked="1" class="content-s">
 <div bis_skin_checked="1" class="item-bookmarking__left-icons__wrapper">
 <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader">
@@ -6498,7 +6498,7 @@
 </div>
 <div bis_skin_checked="1" class="box--no-padding">
 <div bis_skin_checked="1" class="item-preview live-preview-btn--blue -preview-live">
-<a href="https://rebrand.ly/mcd999-crl" target="_blank"><img alt="PG Slots เกมสล็อตออนไลน์อันดับ 1 จากผู้ให้บริการทั้งหมด ด้วยเงินจริงและถอนง่าย 2025 - WooCommerce eCommerce" height="300" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://i.ibb.co.com/TBck9B8v/beefdc5c-978a-46ca-8c4c-ba51ef06944a.png" srcset="https://i.ibb.co.com/TBck9B8v/beefdc5c-978a-46ca-8c4c-ba51ef06944a.png" width="300"/></a>
+<a href="https://rebrand.ly/mcd999-crl" target="_blank"><img alt="PG Slots เกมสล็อตออนไลน์อันดับ 1 จากผู้ให้บริการทั้งหมด ด้วยเงินจริงและถอนง่าย 2025 - WooCommerce eCommerce" height="300" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://res.cloudinary.com/dfluidhzg/image/upload/v1757936662/beefdc5c-978a-46ca-8c4c-ba51ef06944a_o3mbmp.png" srcset="https://res.cloudinary.com/dfluidhzg/image/upload/v1757936662/beefdc5c-978a-46ca-8c4c-ba51ef06944a_o3mbmp.png" width="300"/></a>
 <div bis_skin_checked="1" class="js- item-preview-image__gallery" data-title="ข้าสู่ระบบบัญชี PG SLOT VIP สล็อตออนไลน์ - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002">
 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -6791,7 +6791,7 @@
 </nav>
 <div bis_skin_checked="1" class="global-footer-stats">
 <div bis_skin_checked="1" class="global-footer-stats__content">
-<img alt="Envato Market" class="global-footer-stats__logo" src="https://i.ibb.co.com/LzftjJY2/mcd999.gif"/>
+<img alt="Envato Market" class="global-footer-stats__logo" src="https://res.cloudinary.com/dfluidhzg/image/upload/v1757936663/download_bvw7ee.jpg"/>
 <ul class="global-footer-stats__list">
 <li class="global-footer-stats__list-item h-p0">
 <span class="global-footer-stats__number">77,618,826</span> items
